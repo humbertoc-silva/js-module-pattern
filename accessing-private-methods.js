@@ -1,4 +1,4 @@
-// Accessing Private Methods
+// Accessing Private Methods.
 var ModuleOne = (function () {
 
     var privateMethod = function (message) {
@@ -15,7 +15,7 @@ var ModuleOne = (function () {
 
 })();
 
-// Accessing Private Properties
+// Accessing Private Properties.
 var ModuleTwo = (function () {
 
     var privateArray = [];
